@@ -618,6 +618,9 @@
     "@fortune-sheet/react": {
       "version": "*"
     },
+    "@catnb/catnb-cdn": {
+      "version": "*"
+    },
     "@fullhuman/postcss-purgecss": {
       "version": "*"
     },
